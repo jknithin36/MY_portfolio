@@ -1,0 +1,11 @@
+Model Information:
+* title:	TheFuture
+* source:	https://sketchfab.com/3d-models/thefuture-b5fda59eb51341a58da234c24074d2f0
+* author:	Lorenzo Penco (https://sketchfab.com/Eksmanen)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "TheFuture" (https://sketchfab.com/3d-models/thefuture-b5fda59eb51341a58da234c24074d2f0) by Lorenzo Penco (https://sketchfab.com/Eksmanen) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
