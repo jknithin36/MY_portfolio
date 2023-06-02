@@ -1,10 +1,13 @@
 import logo from "./logo.svg";
+import bgimage from "./bg.png";
+import sec from "./sec.png";
+import dp from "./dp.png";
 import jklogo from "./jklogo.svg";
 import jk_logo from "./jk-logo.png";
-import backend from "./backend.png";
-import creator from "./creator.png";
-import mobile from "./mobile.png";
-import web from "./web.png";
+import backend from "./03.png";
+import creator from "./06.png";
+import mobile from "./04.png";
+import web from "./02.jpg";
 import github from "./github.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
@@ -19,14 +22,18 @@ import mongodb from "./tech/mongodb.png";
 import nodejs from "./tech/nodejs.png";
 import reactjs from "./tech/reactjs.png";
 import redux from "./tech/redux.png";
-import tailwind from "./tech/tailwind.png";
+import tailwind from "./08.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
+import java from "./tech/java.png";
+import aws from "./11.png";
+import c from "./03.png";
+import xd from "./tech/tailwind.png";
 
 import meta from "./company/meta.png";
-import shopify from "./company/shopify.png";
-import starbucks from "./company/starbucks.png";
-import tesla from "./company/tesla.png";
+import vit from "./company/vit.jpeg";
+import narayana from "./company/narayana.png";
+import school from "./company/school.jpg";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
@@ -55,12 +62,19 @@ export {
   typescript,
   threejs,
   meta,
-  shopify,
-  starbucks,
-  tesla,
   carrent,
   jobit,
   tripguide,
+  xd,
   jklogo,
   jk_logo,
+  dp,
+  vit,
+  narayana,
+  school,
+  java,
+  aws,
+  c,
+  bgimage,
+  sec,
 };

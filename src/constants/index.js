@@ -1,3 +1,4 @@
+import { n } from "maath/dist/index-43782085.esm";
 import {
   mobile,
   backend,
@@ -14,14 +15,18 @@ import {
   mongodb,
   git,
   figma,
+  aws,
+  c,
+  xd,
   docker,
   meta,
-  starbucks,
-  tesla,
-  shopify,
+  java,
+  narayana,
+  school,
   carrent,
   jobit,
   tripguide,
+  vit,
   threejs,
 } from "../assets";
 
@@ -42,15 +47,15 @@ export const navLinks = [
 
 const services = [
   {
-    title: "Web Developer",
+    title: "Full stack web developer",
     icon: web,
   },
   {
-    title: "React Native Developer",
+    title: "React developer",
     icon: mobile,
   },
   {
-    title: "Backend Developer",
+    title: "Flutter Developer",
     icon: backend,
   },
   {
@@ -73,16 +78,16 @@ const technologies = [
     icon: javascript,
   },
   {
-    name: "TypeScript",
-    icon: typescript,
+    name: "Java",
+    icon: java,
   },
   {
     name: "React JS",
     icon: reactjs,
   },
   {
-    name: "Redux Toolkit",
-    icon: redux,
+    name: "C",
+    icon: c,
   },
   {
     name: "Tailwind CSS",
@@ -97,8 +102,8 @@ const technologies = [
     icon: mongodb,
   },
   {
-    name: "Three JS",
-    icon: threejs,
+    name: "AbodeXD",
+    icon: xd,
   },
   {
     name: "git",
@@ -109,64 +114,62 @@ const technologies = [
     icon: figma,
   },
   {
-    name: "docker",
-    icon: docker,
+    name: "AWS",
+    icon: aws,
   },
 ];
 
 const experiences = [
   {
-    title: "React.js Developer",
-    company_name: "Starbucks",
-    icon: starbucks,
+    title: "Bachelor of Technology",
+    company_name: "Vellore Institute Of Technology - AP",
+    icon: vit,
     iconBg: "#383E56",
-    date: "March 2020 - April 2021",
+    date: "August 2019 - present",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "With CGPA Of 8.2/10",
+      "Computer Science and Engineering with specialization in Network Security offered by VIT-AP is to meet the demands of security aspects of computer networks having critical business needs.",
+      "The initial level courses provide students with a core foundation in programming, mathematical reasoning, physics and circuit design.",
+      " The latter part blends fundamentals in computer science including secure coding, network security, introduction to cryptography, internet & web programming, web services, authentication and security models, principles of web application security.",
     ],
   },
   {
-    title: "React Native Developer",
-    company_name: "Tesla",
-    icon: tesla,
+    title: "secondary school education",
+    company_name: "Narayana Junior College - Adibatla",
+    icon: narayana,
     iconBg: "#E6DEDD",
-    date: "Jan 2021 - Feb 2022",
+    date: "May 2021 - Feb 2022",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "With percentage Of 88.8 %/100 %",
+      "Intermediate MPC - refers to the two-year intermediate education program in Mathematics, Physics, and Chemistry offered by state boards of education.",
+      "strong foundation in various subjects Like Maths, Physics & chemistry",
     ],
   },
   {
-    title: "Web Developer",
-    company_name: "Shopify",
-    icon: shopify,
+    title: "primary school education",
+    company_name: "HARVEST PUBLIC SCHOOL - KHAMMAM",
+    icon: school,
     iconBg: "#383E56",
-    date: "Jan 2022 - Jan 2023",
+    date: "Jan 2006 - March 2016",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "With CGPA of 9.6/10",
+      "Primary education done with Central Board of Secondary Education (CBSE)",
+      "CBSE schools emphasize proficiency in English as well as the student's mother tongue or a regional language. Students learn basic grammar, vocabulary, comprehension, and writing skills in both languages.",
     ],
   },
-  {
-    title: "Full stack Developer",
-    company_name: "Meta",
-    icon: meta,
-    iconBg: "#E6DEDD",
-    date: "Jan 2023 - Present",
-    points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
-    ],
-  },
+  // {
+  //   title: "Full stack Developer",
+  //   company_name: "Meta",
+  //   icon: meta,
+  //   iconBg: "#E6DEDD",
+  //   date: "Jan 2023 - Present",
+  //   points: [
+  //     "Developing and maintaining web applications using React.js and other related technologies.",
+  //     "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+  //     "Implementing responsive design and ensuring cross-browser compatibility.",
+  //     "Participating in code reviews and providing constructive feedback to other developers.",
+  //   ],
+  // },
 ];
 
 const testimonials = [
